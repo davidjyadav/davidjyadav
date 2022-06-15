@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David Yadav
-- 👀 I’m interested in C/C++, Python and Web Dev
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in App development
+- 🌱 I’m currently learning C/C++, Python and SQL
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me davidyadav4004@gmail.com
